@@ -1,0 +1,7 @@
+.completedTodo{
+    color: darkgray;
+    text-decoration: line-through;
+}
+fa-icon{
+    cursor: pointer;
+}
